@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" apprev="15983" appversion="5.2.2">
+  <panorama id="node3">
+    <input levelingroll="0" width="2315" levelbias="0.400" levelingpitch="0" height="2315" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2315" predecode="0" height="2315"/>
+      <level preload="0" width="1157" predecode="0" height="1157"/>
+      <level preload="0" width="578" predecode="0" height="578"/>
+      <level preload="1" width="289" predecode="1" height="289"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-56.68">
+      <start fov="74" tilt="-3.29" projection="4" pan="89.17"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="Entrance &amp; Living Room" datetime="10/5/2017 10:46 AM" comment="" title="DD Homes - 1886 Blue Bird Lane, Galesburg IL" longitude="" source="" description="You will notice the gentle flow of the home layout, the shiny floors, and the love that the staff put into their work daily.  Their pride shines not only in the appearance of the home, but the smiling faces of the individuals who call this beautiful place home. Our spacious living rooms offer an inviting area for entertainment, relaxation, or enjoying the company of family or friends. Clean and comfortable seating is available to accommodate varying needs." copyright="DD Homes" customnodeid="" tags="DD_Homes|1"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node5}" target="" tilt="-1.73" skinid="ht_node" pan="45.2" title="Kitchen &amp; Dining Room" description="" id="Point01"/>
+      <hotspot url="{node4}" target="" tilt="-1.98" skinid="ht_node" pan="122.83" title="Hallway" description="" id="Point02"/>
+      <hotspot url="{node1}" target="" tilt="-2.26" skinid="ht_node_left" pan="135.29" title="East Bathroom" description="" id="Point03"/>
+      <hotspot url="{node6}" target="" tilt="-2.04" skinid="ht_node_right" pan="115.36" title="West Bathroom" description="" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="1" width="2312" levelbias="0.400" levelingpitch="-1.5" height="2312" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2312" predecode="0" height="2312"/>
+      <level preload="0" width="1156" predecode="0" height="1156"/>
+      <level preload="0" width="578" predecode="0" height="578"/>
+      <level preload="1" width="289" predecode="1" height="289"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-42.52">
+      <start fov="79" tilt="-7.13" projection="4" pan="121.45"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="Kitchen &amp; Dining Room" datetime="10/5/2017 10:57 AM" comment="" title="" longitude="" source="" description="Many delicious and nutritious meals are prepared in this generous kitchen. Menus and recipes are developed by a licensed dietitian. Special diets and modifications to consistency are made to accommodate individual’s specific needs. Meals are served family style at this beautiful oak dining table. When weather permits, individuals often choose to dine on our back patio." copyright="DD Homes" customnodeid="" tags="DD_Homes|2"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node3}" target="" tilt="-1.17" skinid="ht_node" pan="-111.14" title="DD Homes - 1886 Blue Bird Lane, Galesburg IL" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" width="2309" levelbias="0.400" levelingpitch="0" height="2309" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2309" predecode="0" height="2309"/>
+      <level preload="0" width="1154" predecode="0" height="1154"/>
+      <level preload="0" width="577" predecode="0" height="577"/>
+      <level preload="1" width="288" predecode="1" height="288"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="177.83">
+      <start fov="70.6" tilt="-7.35" projection="4" pan="152.4"/>
+      <flyin fov="162" tilt="-90" projection="9" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="Hallway" datetime="10/5/2017 10:20 AM" comment="" title="Hallway" longitude="" source="" description="You will notice the gentle flow of the home layout, the shiny floors, and the love that the staff put into their work daily.  Their pride shines not only in the appearance of the home, but the smiling faces of the individuals who call this beautiful place home. Our spacious living rooms offer an inviting area for entertainment, relaxation, or enjoying the company of family or friends. Clean and comfortable seating is available to accommodate varying needs." copyright="DD Homes" customnodeid="" tags="DD_Homes|3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node2}" target="" tilt="-6.15" skinid="ht_node" pan="117.94" title="East Bedroom" description="" id="Point01"/>
+      <hotspot url="{node7}" target="" tilt="-1.54" skinid="ht_node_right" pan="-29.54" title="West Bedroom" description="" id="Point02"/>
+      <hotspot url="{node6}" target="" tilt="-1.32" skinid="ht_node_left" pan="-170.59" title="West Bathroom" description="" id="Point03"/>
+      <hotspot url="{node3}" target="" tilt="-1.28" skinid="ht_node" pan="178.31" title="Entrance" description="" id="Point04"/>
+      <hotspot url="{node1}" target="" tilt="-1.28" skinid="ht_node_right" pan="171.76" title="East Bathroom" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="2308" levelbias="0.400" levelingpitch="0" height="2308" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2308" predecode="0" height="2308"/>
+      <level preload="0" width="1154" predecode="0" height="1154"/>
+      <level preload="0" width="577" predecode="0" height="577"/>
+      <level preload="1" width="288" predecode="1" height="288"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.1" tilt="-18.71" projection="4" pan="17"/>
+      <flyin fov="84.6" tilt="-14.94" projection="4" pan="165.85"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="East Bedroom" datetime="10/5/2017 9:54 AM" comment="" title="East Bedroom" longitude="" source="" description="We offer bedrooms that are private or semi private and have found that often people prefer having a roommate.  Bedrooms are comfortable, decorated as uniquely as desired, but also safe, clean and tidy, with ample room for personal belongings." copyright="DD Homes" customnodeid="" tags="DD_Homes|5"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node4}" target="" tilt="-1.01" skinid="ht_node" pan="-153.54" title="Hallway" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" width="2297" levelbias="0.400" levelingpitch="0" height="2297" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2297" predecode="0" height="2297"/>
+      <level preload="0" width="1148" predecode="0" height="1148"/>
+      <level preload="0" width="574" predecode="0" height="574"/>
+      <level preload="1" width="287" predecode="1" height="287"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.5" tilt="-11.78" projection="4" pan="-172.04"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="West Bedroom" datetime="10/5/2017 10:13 AM" comment="" title="West Bedroom" longitude="" source="" description="We offer bedrooms that are private or semi private and have found that often people prefer having a roommate.  Bedrooms are comfortable, decorated as uniquely as desired, but also safe, clean and tidy, with ample room for personal belongings." copyright="DD Homes" customnodeid="" tags="DD_Homes|4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node4}" target="" tilt="-2.09" skinid="ht_node" pan="-102.6" title="Hallway" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" width="2304" levelbias="0.400" levelingpitch="0" height="2304" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2304" predecode="0" height="2304"/>
+      <level preload="0" width="1152" predecode="0" height="1152"/>
+      <level preload="0" width="576" predecode="0" height="576"/>
+      <level preload="1" width="288" predecode="1" height="288"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-56.92">
+      <start fov="84.9" tilt="-8.88" projection="4" pan="-44.85"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="East Bathroom" datetime="10/5/2017 10:34 AM" comment="" title="East Bathroom" longitude="" source="" description="The spacious bathrooms are designed with the specific needs of the individuals in mind.  Our professionally trained staff will ensure that we utilize the proper equipment necessary to create an enjoyable bathing experience." copyright="DD Homes" customnodeid="" tags="DD_Homes|7"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node4}" target="" tilt="-0.53" skinid="ht_node" pan="49.46" title="Hallway" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" width="2302" levelbias="0.400" levelingpitch="0" height="2302" levelbiashidpi="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="2302" predecode="0" height="2302"/>
+      <level preload="0" width="1151" predecode="0" height="1151"/>
+      <level preload="0" width="575" predecode="0" height="575"/>
+      <level preload="1" width="287" predecode="1" height="287"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="122.02">
+      <start fov="84.6" tilt="-9.32" projection="4" pan="-97.84"/>
+      <flyin fov="84.6" tilt="-4.06" projection="4" pan="-103.94"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata info="" latitude="" author="West Bathroom" datetime="10/5/2017 10:26 AM" comment="" title="West Bathroom" longitude="" source="" description="The spacious bathrooms are designed with the specific needs of the individuals in mind.  Our professionally trained staff will ensure that we utilize the proper equipment necessary to create an enjoyable bathing experience." copyright="DD Homes" customnodeid="" tags="DD_Homes|6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundalpha="1" bordercolor="0x000000" width="180" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" borderalpha="1" textalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node4}" target="" tilt="-1.79" skinid="ht_node" pan="-147.31" title="Hallway" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomout="0" enabled="0" blendtime="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000"/>
+    <control rubberband="0" invertcontrol="1" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+</tour>
