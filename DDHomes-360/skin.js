@@ -5146,7 +5146,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : -164px;';
 		hs+='opacity : 0.89999;';
 		hs+='position : absolute;';
-		hs+='top : -636px;';
+		hs+='top : -550px;';
 		hs+='visibility : inherit;';
 		hs+='width : 330px;';
 		hs+='pointer-events:auto;';
