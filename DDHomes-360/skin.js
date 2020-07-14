@@ -2621,7 +2621,7 @@ function pano2vrSkin(player,base) {
 		hs+='background : rgba(0,0,0,0.509804);';
 		hs+='border : 0px solid #ffffff;';
 		hs+='cursor : default;';
-		hs+='height : 245px;';
+		hs+='height : 265px;';
 		hs+='left : -57px;';
 		hs+='position : absolute;';
 		hs+='top : -72px;';
@@ -2666,7 +2666,7 @@ function pano2vrSkin(player,base) {
 		this._title.style[domTransform + 'Origin']='50% 50%';
 		hs ='position:absolute;';
 		hs+='cursor: default;';
-		hs+='left: -80px;';
+		hs+='left: -36px;';
 		hs+='top:  0px;';
 		hs+='width: 280px;';
 		hs+='height: 20px;';
@@ -2676,6 +2676,7 @@ function pano2vrSkin(player,base) {
 		hs+='white-space: nowrap;';
 		hs+='padding: 0px 1px 0px 1px;';
 		hs+='overflow: hidden;';
+		hs+='text-overflow: ellipsis;';
 		this._title__text.setAttribute('style',hs);
 		this._title.ggUpdateText=function() {
 			var hs="<b>"+me.ggUserdata.title+"<\/b>";
